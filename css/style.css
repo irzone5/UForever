@@ -69,13 +69,13 @@ body {
 }
 nav {
   border-bottom: 0;
-  padding: 25px 0;
+  padding: 0.01% 0;
   position: relative;
   z-index: 2;
 }
 .logo img {
   margin: 12;
-  width: 1٪;
+  width: 125px;
   position: relative;
 }
 hr {
