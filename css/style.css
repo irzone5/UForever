@@ -57,7 +57,7 @@ body {
   margin: 0;
   font-family: "Poppins", sans-serif;
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 40;
   line-height: 1.5;
   color: #656565;
   text-align: left;
@@ -69,7 +69,7 @@ body {
 }
 nav {
   border-bottom: 0;
-  padding: 0.01% 0;
+  padding: 25px 0;
   position: relative;
   z-index: 2;
 }
